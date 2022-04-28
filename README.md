@@ -9,8 +9,8 @@
 <!--
 <h2 align="center">Languages and Tools:</h2>
 <p align='center'>
-<code><img alt="Flutter" title="Flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img alt="dart" title="dart" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<img alt="Go" title="Go" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png">
+<img alt="GitHub" title="Go" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
 
 
 **Maruuurb/Maruuurb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
