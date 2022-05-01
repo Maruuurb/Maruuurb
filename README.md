@@ -6,13 +6,12 @@
    <a href="https://t.me/Mari_Urban"><img height="40" src="https://papik.pro/uploads/posts/2022-01/thumbs/1643603252_2-papik-pro-p-logotip-telegram-2.png" width="40" height="40"></a>&nbsp;&nbsp;
 </p>
 
-<!--
 <h2 align="center">Languages and Tools:</h2>
 <p align='center'>
 <img alt="Go" title="Go" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png">
 <img alt="GitHub" title="Go" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
 
-
+<!--
 **Maruuurb/Maruuurb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
