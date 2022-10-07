@@ -13,6 +13,8 @@
 </p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maruuurb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://komarev.com/ghpvc/?username=Maruuurb&color=brightgreen" alt="watching_count" />
+  
 </p>
 
 <!--
