@@ -12,7 +12,7 @@
 <img alt="GitHub" title="Go" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maruuurb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruuurb&layout=compact" alt="ovi" />
   
 </p>
 
